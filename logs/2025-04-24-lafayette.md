@@ -27,7 +27,8 @@ Los modales me llamó mucho la atención sinceramente, delightful.
 Después la estética del ambiente también: los detalles de los muebles y las luces, la distancia entre las mesas, había gente pero no era demasiado ruidoso. 
 Las mesas eran intimas y redondas pero con mucho espacio para todo lo que pedimos para compartir o sea intimo pero no apretado. 
 
-![guest relations 1](../assets/lafayette/guest_relations1.jpg)
-![guest relations 2](../assets/lafayette/guest_relations2.jpg)
-![guest relations 3](../assets/lafayette/guest_relations3.jpg)
-![guest relations 4](../assets/lafayette/guest_relations4.jpg)
+<img src="../assets/lafayette/guest_relations1.jpg" alt = "guest relations 1" width=350/>
+<img src="../assets/lafayette/guest_relations2.jpg" alt = "guest relations 2" width=350/>
+<img src="../assets/lafayette/guest_relations3.jpg" alt = "guest relations 3" width=350/>
+<img src="../assets/lafayette/guest_relations4.jpg" alt = "guest relations 4" width=350/>
+
